@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4ab1eb4a-8e0a-43e2-afbc-08a499862fcd",
+  "path": "hermes-themes",
+  "path_key": "hermes-themes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

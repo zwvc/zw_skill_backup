@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7033dc56-1cfd-49f4-acf0-73b567905328",
+  "path": "minecraft-modpack-server",
+  "path_key": "minecraft-modpack-server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

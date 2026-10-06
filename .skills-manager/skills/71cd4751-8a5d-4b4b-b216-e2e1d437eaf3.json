@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "71cd4751-8a5d-4b4b-b216-e2e1d437eaf3",
+  "path": "lark-whiteboard",
+  "path_key": "lark-whiteboard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

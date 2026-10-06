@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "27a8f8ca-35db-4ac7-876e-fb8e57745e7f",
+  "path": "lark-workflow-standup-report",
+  "path_key": "lark-workflow-standup-report",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

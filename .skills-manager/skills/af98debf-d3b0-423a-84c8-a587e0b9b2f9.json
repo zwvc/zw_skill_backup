@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af98debf-d3b0-423a-84c8-a587e0b9b2f9",
+  "path": "lark-wiki",
+  "path_key": "lark-wiki",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

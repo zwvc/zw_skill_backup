@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "42bb1fc4-4158-43d4-b258-f42003793cd6",
+  "path": "tui-widgets",
+  "path_key": "tui-widgets",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

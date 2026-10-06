@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8321c74e-cc10-4f0e-9915-802b36a06f32",
+  "path": "outlines",
+  "path_key": "outlines",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

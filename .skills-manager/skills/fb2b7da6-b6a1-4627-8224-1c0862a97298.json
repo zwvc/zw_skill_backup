@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fb2b7da6-b6a1-4627-8224-1c0862a97298",
+  "path": "hermes-s6-container-supervision",
+  "path_key": "hermes-s6-container-supervision",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

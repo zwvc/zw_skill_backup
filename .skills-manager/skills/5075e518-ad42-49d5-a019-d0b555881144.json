@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5075e518-ad42-49d5-a019-d0b555881144",
+  "path": "notion",
+  "path_key": "notion",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

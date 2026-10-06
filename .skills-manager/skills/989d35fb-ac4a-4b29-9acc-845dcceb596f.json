@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "989d35fb-ac4a-4b29-9acc-845dcceb596f",
+  "path": "html-artifact",
+  "path_key": "html-artifact",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

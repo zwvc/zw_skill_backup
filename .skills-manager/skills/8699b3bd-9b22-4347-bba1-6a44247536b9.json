@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8699b3bd-9b22-4347-bba1-6a44247536b9",
+  "path": "xlsx",
+  "path_key": "xlsx",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

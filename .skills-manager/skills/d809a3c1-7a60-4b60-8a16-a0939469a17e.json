@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d809a3c1-7a60-4b60-8a16-a0939469a17e",
+  "path": "unsloth",
+  "path_key": "unsloth",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5032ec9f-2d39-455f-993f-10467ff45e09",
+  "path": "spike",
+  "path_key": "spike",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

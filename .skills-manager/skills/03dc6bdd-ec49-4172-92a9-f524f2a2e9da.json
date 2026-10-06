@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "03dc6bdd-ec49-4172-92a9-f524f2a2e9da",
+  "path": "hermes-desktop-plugins",
+  "path_key": "hermes-desktop-plugins",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

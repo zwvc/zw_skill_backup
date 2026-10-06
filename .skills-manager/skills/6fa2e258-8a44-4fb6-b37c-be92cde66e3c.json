@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6fa2e258-8a44-4fb6-b37c-be92cde66e3c",
+  "path": "ascii-art",
+  "path_key": "ascii-art",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

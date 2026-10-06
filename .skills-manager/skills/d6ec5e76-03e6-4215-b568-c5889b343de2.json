@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d6ec5e76-03e6-4215-b568-c5889b343de2",
+  "path": "debugging-hermes-tui-commands",
+  "path_key": "debugging-hermes-tui-commands",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0f37edc2-188b-46c6-b93e-1406d13ff5a0",
+  "path": "opencode",
+  "path_key": "opencode",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d4dd8460-18ea-4ff8-a9d7-483824e3d3de",
+  "path": "understand-onboard",
+  "path_key": "understand-onboard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

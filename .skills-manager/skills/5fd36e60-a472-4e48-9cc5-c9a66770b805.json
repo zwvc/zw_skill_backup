@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5fd36e60-a472-4e48-9cc5-c9a66770b805",
+  "path": "understand-explain",
+  "path_key": "understand-explain",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

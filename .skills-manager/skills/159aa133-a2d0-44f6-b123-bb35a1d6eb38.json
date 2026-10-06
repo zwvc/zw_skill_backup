@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "159aa133-a2d0-44f6-b123-bb35a1d6eb38",
+  "path": "mochat",
+  "path_key": "mochat",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

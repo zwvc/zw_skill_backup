@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c7ee8522-5bf0-4745-a0aa-0a817e1aad77",
+  "path": "python-debugpy",
+  "path_key": "python-debugpy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

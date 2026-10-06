@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6d165bfa-2a1f-42a8-805a-d0073881014c",
+  "path": "powerpoint",
+  "path_key": "powerpoint",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
